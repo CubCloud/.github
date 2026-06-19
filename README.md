@@ -39,10 +39,10 @@ Small team, Missoula-based, moving fast.
 
 **Joshua Rhines** — CEO. Has opinions about data sovereignty and will share them.  
 **Brandon Smith** — CTO. Makes the GPUs behave.  
-**Drew Surratt** — Chief Community Officer. Keeps us honest about who we're actually building for.
-**Justin Estrada** — Developer. Ships things. 
-**Kaelan Carney** — Junior Developer. Smaller version of Justin.
-**Interns** — So many interns.
+**Drew Surratt** — Chief Community Officer. Keeps us honest about who we're actually building for.  
+**Justin Estrada** — Developer. Ships things.  
+**Kaelan Carney** — Junior Developer. Smaller version of Justin.  
+**Interns** — So many interns.  
 
 ---
 
