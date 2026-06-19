@@ -18,7 +18,7 @@ We own our stack — GPU to interface. H200s, H100s, and RTX PRO 6000s sitting i
 - **Marijuan.AI** and **Connected** — Vertical-specific AI tools. The names are self-explanatory on one of those.
 - **Other Products** — We also build websites, backends, frontends, middle ends, AI agents, and the works for local companies. We'd share more, but NDAs are a thing. Just know that it's some of the best software ever written.
 
-**Community** — CubCloud Community (501c3) and the MontanAI Alliance (501c6) exist to make sure AI literacy, tribal partnerships, healthcare, and academic enablement aren't afterthoughts in Montana's AI future. We're not waiting for someone else to do this.
+**Community** — CubCloud Community (501(c)(3)) and the MontanAI Alliance (501(c)(6)) exist to make sure AI literacy, tribal partnerships, healthcare, and academic enablement aren't afterthoughts in Montana's AI future. We're not waiting for someone else to do this.
 
 ---
 
@@ -29,7 +29,6 @@ We own our stack — GPU to interface. H200s, H100s, and RTX PRO 6000s sitting i
 | CubCloud AI LLC | Commercial | Build things, make money, fund everything else |
 | CubCloud Community | 501(c)(3) | Workforce AI literacy, tribal partnerships, education |
 | MontanAI Alliance | 501(c)(6) | Industry coalition, policy, statewide coordination |
-
 
 ---
 
