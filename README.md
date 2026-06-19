@@ -42,6 +42,9 @@ Small team, Missoula-based, moving fast.
 **Drew Surratt** — Chief Community Officer. Keeps us honest about who we're actually building for.  
 **Justin Estrada** — Developer. Ships things.  
 **Kaelan Carney** — Junior Developer. Smaller version of Justin.  
+**Bryce Howard** — Network. Keeps the bits flowing, part-time, full competence.  
+**Azlyn Caldwell** — Handles the interns.  
+**Mac Strange-Boston** — Sales. Has a name you will not forget and a pitch you won't either.  
 **Interns** — So many interns.  
 
 ---
