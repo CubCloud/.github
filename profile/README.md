@@ -4,6 +4,8 @@
 
 We own our stack — GPU to interface. H200s, H100s, and RTX PRO 6000s sitting in a data center in Missoula, not rented from a hyperscaler. When we say your data stays private, we mean it literally.
 
+![CubCloud Command](http://api.cubcloud.ai/wp-content/uploads/2026/06/cubcloud-command.jpeg)
+
 ---
 
 ## What we build
